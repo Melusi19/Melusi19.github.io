@@ -1,3 +1,7 @@
+html {
+    scroll-behavior: smooth;
+}
+
 * {
     padding: 0;
     margin: 0;
@@ -40,14 +44,14 @@ nav ul li {
   }
 
 nav ul li a {
-    color: white;
+    color: #fd4766;
     text-decoration: none;
     position: relative;
     padding: 5px 0;
   }
 
 nav ul li a:hover {
-    color: #fd4766;
+    color: black;
   }
 
 .content {
